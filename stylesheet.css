@@ -55,3 +55,13 @@ li:last-child {
     align-items: center;
 
 }
+.archive1 {
+     margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    order: 2;
+}
+
+   
