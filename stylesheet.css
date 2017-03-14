@@ -74,4 +74,22 @@ li:last-child {
 .title {
     font-size: 50px;
     color:crimson;
+    text-align: center;
+}
+.charcterls {
+     margin: auto;
+    width: 30%;
+    padding: 10px;
+}
+.home {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.social {
+     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 }
