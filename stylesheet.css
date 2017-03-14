@@ -41,7 +41,7 @@ li:last-child {
 .container
 {
     box-shadow: 10px 10px 5px #888888;
-    width: 80%;
+    width: 55%;
     height: 110%;
    background-color: floralwhite;
 }
@@ -51,7 +51,7 @@ li:last-child {
     display: flex;
     flex-direction: row;
     justify-content: center;
-    height: 500px;
+    height: 400px;
     align-items: center;
 
 }
@@ -64,4 +64,14 @@ li:last-child {
     order: 2;
 }
 
-   
+.charcter {
+    box-shadow: 10px 10px 5px #888888;
+     width: 17%;
+    height: 110%;
+   background-color: floralwhite;
+
+}
+.title {
+    font-size: 50px;
+    color:crimson;
+}
